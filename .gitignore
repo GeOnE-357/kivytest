@@ -1,0 +1,6 @@
+#basura
+.DS_Store
+.directory
+
+#virtual enviroment
+/kivy_venv
